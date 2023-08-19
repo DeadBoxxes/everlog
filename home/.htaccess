@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "EVER LOG, THE UNIVERSALLY TOYS LOG ACCESS RESTRICTION..."
-AuthUserFile /deadboxxes.github.io/everlog/home/.htpasswd
+AuthUserFile https://deadboxxes.github.io/everlog/home/.htpasswd
 require valid-user
